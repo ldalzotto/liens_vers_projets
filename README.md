@@ -11,7 +11,7 @@ Implémentation des bases d'un moteur 3D. (C++)
 
 - [(software rasterizer)](https://github.com/ldalzotto/SoftwareRasterizer)
 
-Implémentation d'un algorithm de rastérisation. (C)
+Implémentation d'un algorithme de rastérisation. (C)
 
 ![](https://i.imgur.com/8LRG2xY.gif)
 ![](https://i.imgur.com/BIZjD6j.gif)
